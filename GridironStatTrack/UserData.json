@@ -1,0 +1,245 @@
+[
+	{
+		"bets" : [
+			{
+				"id" : 1,
+				"legs" : "Giants Moneyline",
+				"odds" : 2.5,
+				"success" : true,
+				"wager" : 100
+			},
+			{
+				"id" : 2,
+				"legs" : "Ravens Spread +7.5",
+				"odds" : 1.2,
+				"success" : false,
+				"wager" : 20
+			},
+			{
+				"id" : 3,
+				"legs" : "falcons moneyline",
+				"odds" : 2,
+				"success" : true,
+				"wager" : 5
+			},
+			{
+				"id" : 4,
+				"legs" : "Eagles Moneyline",
+				"odds" : 5,
+				"success" : true,
+				"wager" : 20
+			}
+		],
+		"email" : "test1@gmail.com",
+		"favourites" : [
+		],
+		"password" : "Password1",
+		"username" : "test1"
+	},
+	{
+		"bets" : [
+		],
+		"email" : "test2@gmail.com",
+		"favourites" : [
+		],
+		"password" : "Password2",
+		"username" : "test2"
+	},
+	{
+		"bets" : [
+		],
+		"email" : "test3@gmail.com",
+		"favourites" : [
+		],
+		"password" : "Password3",
+		"username" : "test3"
+	},
+	{
+		"bets" : [
+		],
+		"email" : "test4@gmail.com",
+		"favourites" : [
+		],
+		"password" : "Password1",
+		"username" : "test4"
+	},
+	{
+		"bets" : [
+		],
+		"email" : "test5@gmail.com",
+		"favourites" : [
+		],
+		"password" : "Pssword1",
+		"username" : "test5"
+	},
+	{
+		"bets" : [
+		],
+		"email" : "test6@gmail.com",
+		"favourites" : [
+		],
+		"password" : "Password6",
+		"username" : "test6"
+	},
+	{
+		"bets" : [
+		],
+		"email" : "test7@gmail.com",
+		"favourites" : [
+		],
+		"password" : "password",
+		"username" : "test7"
+	},
+	{
+		"bets" : [
+		],
+		"email" : "test9@gmail.com",
+		"favourites" : [
+		],
+		"password" : "Password9",
+		"username" : "test9"
+	},
+	{
+		"bets" : [
+		],
+		"email" : "test8@gmail.com",
+		"favourites" : [
+		],
+		"password" : "Password8",
+		"username" : "test8"
+	},
+	{
+		"bets" : [
+			{
+				"id" : 1,
+				"legs" : "Jets Moneyline",
+				"odds" : 3,
+				"success" : false,
+				"wager" : 100
+			},
+			{
+				"id" : 2,
+				"legs" : "Saquon TD",
+				"odds" : 2.5,
+				"success" : false,
+				"wager" : 50
+			},
+			{
+				"id" : 3,
+				"legs" : "Bills Jets Dolphins ML",
+				"odds" : 4.5,
+				"success" : true,
+				"wager" : 150
+			},
+			{
+				"id" : 4,
+				"legs" : "Bills ML",
+				"odds" : 2,
+				"success" : true,
+				"wager" : 10
+			},
+			{
+				"id" : 5,
+				"legs" : "4",
+				"odds" : 0,
+				"success" : true,
+				"wager" : 2
+			}
+		],
+		"email" : "test10@gmail.com",
+		"favourites" : [
+			{
+				"name" : "Derrick Henry*",
+				"pos" : "RB",
+				"team" : "TEN"
+			},
+			{
+				"name" : "Ezekiel Elliott",
+				"pos" : "RB",
+				"team" : "DAL"
+			},
+			{
+				"name" : "Terry McLaurin*",
+				"pos" : "WR",
+				"team" : "WAS"
+			},
+			{
+				"name" : "Tyreek Hill*+",
+				"pos" : "WR",
+				"team" : "MIA"
+			},
+			{
+				"name" : "Saquon Barkley*",
+				"pos" : "RB",
+				"team" : "NYG"
+			}
+		],
+		"password" : "Password10",
+		"username" : "test10"
+	},
+	{
+		"bets" : [
+		],
+		"email" : "smccorq@uwo.ca",
+		"favourites" : [
+		],
+		"password" : "smccorq123",
+		"username" : "smccorq"
+	},
+	{
+		"bets" : [
+		],
+		"email" : "testbet@uwo.ca",
+		"favourites" : [
+		],
+		"password" : "testbet123",
+		"username" : "testbet"
+	},
+	{
+		"bets" : [
+			{
+				"id" : 1,
+				"legs" : "Giants +3.5 Spread",
+				"odds" : 1.75,
+				"success" : true,
+				"wager" : 20
+			},
+			{
+				"id" : 2,
+				"legs" : "Jets Spread",
+				"odds" : 3,
+				"success" : false,
+				"wager" : 1000
+			}
+		],
+		"email" : "dszabo5@uwo.ca",
+		"favourites" : [
+			{
+				"name" : "Nick Chubb*",
+				"pos" : "RB",
+				"team" : "CLE"
+			},
+			{
+				"name" : "Justin Jefferson*+",
+				"pos" : "WR",
+				"team" : "MIN"
+			},
+			{
+				"name" : "Saquon Barkley*",
+				"pos" : "RB",
+				"team" : "NYG"
+			}
+		],
+		"password" : "Password123",
+		"username" : "dszabo5"
+	},
+	{
+		"bets" : [
+		],
+		"email" : "test11@uwo.ca",
+		"favourites" : [
+		],
+		"password" : "Password11",
+		"username" : "test11"
+	}
+]
